@@ -3,7 +3,7 @@
 Build the image using the following command
 
 ```bash
-DOCKER_BUILDKIT=0 docker buildx  build --platform linux/amd64 -t generativepretrainedtransformer:v1
+DOCKER_BUILDKIT=0 docker buildx  build --platform linux/amd64 -t generativepretrainedtransformer:v1 .
 ```
 
 Run the Docker container using the command shown below.
