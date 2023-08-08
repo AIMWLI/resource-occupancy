@@ -1,4 +1,4 @@
-# Simple Python Dockerized Application#
+# Simple Python Dockerized Application
 
 Build the image using the following command
 
